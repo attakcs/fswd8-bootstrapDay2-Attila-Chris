@@ -1,0 +1,11 @@
+#image-wrapper {
+	height: 20vh;
+	overflow: hidden;
+	background: url("hero.png");
+	background-size: cover;
+	background-position: center;
+}
+
+.bg-black {
+	background: black;
+}
